@@ -1,6 +1,6 @@
-# flutter_app1
+# how to fullscreen background
 
-A new Flutter application.
+This is how to lay a fullscreen background
 
 ## Getting Started
 
