@@ -3,4 +3,5 @@
 .packages
 .pub/
 build/
+.idea/
 .flutter-plugins
